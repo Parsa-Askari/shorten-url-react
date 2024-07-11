@@ -5,12 +5,7 @@ import { Footing } from "./components/Footing"
 import { useState ,useEffect} from "react"
 
 function App(){
-    
-    // const handleSubmit= async ()=>
-    // {
-    //     const res=await shortenUrl("https://quera.org/college/6092/chapter/20019/lesson/64942/?comments_page=1&comments_filter=ALL")
-    //     console.log(res.data.tiny_url)
-    // }
+ 
     return(
         <div className="container" >
             <TopBar />

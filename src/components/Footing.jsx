@@ -15,7 +15,6 @@ export function Footing()
             </div>
             <div className="buttom-bar">
                 <div className="logo">
-                    {/* <img src="./src/images/logo.svg" /> */}
                     <h1>Shortly</h1>
                 </div>
                 <div className="options">

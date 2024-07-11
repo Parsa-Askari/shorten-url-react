@@ -16,7 +16,7 @@ export function Cards(){
                             </div>
                         </div>
                     </div>
-
+                    <div className="mobile-bar"> </div>
                     <div className="card__item" id="card__2">
                         <div className="card__logo-box">
                             <img src="./src/images/icon-detailed-records.svg" />
@@ -29,9 +29,11 @@ export function Cards(){
                             </div>
                         </div>
                     </div>
-                    
+                    <div className="mobile-bar"> </div>
                     <div className="card__item" id="card__3">
+                        
                         <div className="card__logo-box">
+                            
                             <img src="./src/images/icon-fully-customizable.svg" />
                         </div>
                         <div className="content">
