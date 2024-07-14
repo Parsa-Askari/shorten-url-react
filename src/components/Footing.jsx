@@ -33,7 +33,7 @@ export function Footing()
                         <div className="item">
                             <h2>Resources</h2>
                             <div className="content">
-                                <p>Blog</p>
+                                <p>blog</p>
                                 <p>Developers</p>
                                 <p>Support</p>
                             </div>
